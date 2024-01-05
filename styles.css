@@ -1,0 +1,119 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;          
+    font-family: Roboto, sans-serif;
+}
+
+.header {
+    background-color: #1f2937;
+    display: flex;
+    flex-direction: column;
+}
+.logo {
+    display: flex;
+    justify-content: space-around;
+    padding: 24px;
+    margin: 28px;
+}
+
+.piw {
+    width: 500px;
+    height: 300px;
+}
+.logo2{
+    
+}
+.logo h1 {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+ul li {
+    list-style: none;
+    color: #F9FAF8;
+    font-size: 18px;
+}
+p {
+    color:#F9FAF8;
+}
+.aws h1 {
+    font-size: 48px;
+    color: #F9FAF8;
+    font-weight: bold;
+}
+
+ul {
+    display: flex;
+  margin: 0;
+  padding: 0;
+  gap: 16px;
+}
+
+.aws {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    padding: 90px;
+}
+
+.wow button {
+    padding: 10px;
+    margin-top: 5px;
+    background: #3882f6;;
+    color: #F9FAF8;
+    border-radius: 8px;
+}
+
+.wow {
+    width: 500px;
+}
+
+.wow2 {
+    width: 500px;
+    
+}
+
+.imgbox img {
+    width: 200px;
+    height: 200px;
+}
+
+.imgbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 20px;
+    gap: 20px;
+}
+
+.imgbox p {
+    color: black;
+    text-align: center;
+    padding: 10px;
+}
+
+.intro h2 {
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+
+.content h1 {
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    padding: 20px;
+}
+
+.content {
+    background: #E5E7EB;
+    padding: 90px;
+}
+
